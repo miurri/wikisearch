@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    text-align: center;
+    font-size: 1em;
+}
+
+.inputWrapper {
+    font-family: inherit;
+    font-size: 1em;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.searchList {
+    list-style-type: none;
+    font-family: inherit;
+    font-size: 1em;
+    padding: 0 7% 0 7%;
+    margin: 0;
+}
+
+.storyList {
+    list-style-type: none;
+    font-family: inherit;
+    font-size: 1em;
+    margin: 0 7% 0 7%;
+    background-color: rgba(90, 98, 104, 0.1);
+    border: 1px solid #5A6268;
+    border-radius: 5px;
+    padding: 0;
+}
+
+.storyList li {
+    display: inline-block;
+    margin: 5px;
+}
